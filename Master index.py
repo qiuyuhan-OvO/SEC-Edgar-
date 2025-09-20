@@ -1,3 +1,4 @@
+##For example,to download DEF 14A （proxy statement） from Edgar 
 import os
 import time
 import argparse
